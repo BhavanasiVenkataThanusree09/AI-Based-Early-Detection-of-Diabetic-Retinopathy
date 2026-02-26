@@ -1,0 +1,2 @@
+# AI-Based-Early-Detection-of-Diabetic-Retinopathy
+Developed a deep learning–based pipeline for early detection of Diabetic Retinopathy using retinal fundus images, incorporating CNN architectures with CBAM attention and EfficientNet to enhance feature extraction and classification accuracy.Applied model evaluation techniques and explainable AI using Grad-CAM to visualize affected retinal regions.
